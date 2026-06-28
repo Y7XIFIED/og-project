@@ -32,44 +32,14 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 og project/
-├── .gitignore
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   └── footer.png
-├── dist
-│   ├── assets
-│   │   ├── footer-CRzRk-J6.png
-│   │   ├── index-C-8_ZQQj.css
-│   │   └── index-D52waPiT.js
-│   └── index.html
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-├── src
-│   ├── App.tsx
-│   ├── components
-│   │   ├── CodeShowcase.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── Philosophy.tsx
-│   │   ├── TechStack.tsx
-│   │   ├── Traits.tsx
-│   │   └── ui
-│   ├── hooks
-│   │   └── useKonamiCode.ts
-│   ├── index.css
-│   ├── main.tsx
-│   └── vite-env.d.ts
-├── tailwind.config.js
-├── tsconfig.json
-├── vite.config.ts
-├── YOUWARE.md
-└── yw_manifest.json
+├── .vercel/
+├── assets/
+├── dist/
+│   └── assets/
+└── src/
+    ├── components/
+    │   └── ui/
+    └── hooks/
 ```
 
 ## 💻 Tech Stack
