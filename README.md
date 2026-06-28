@@ -1,40 +1,9 @@
-# og-project
+﻿<h3 align="center"><b>OG PROJECT</b></h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" /></p>
 
-> A kinetic portfolio experiment where motion, physics, and minimal UI meet.
+Welcome to **og project**! This is a fun and engaging project built to provide an amazing experience!
 
-![Build](https://img.shields.io/badge/build-passing-22c55e?style=flat-square)
-![License: MIT](https://img.shields.io/badge/license-MIT-111827?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-0ea5e9?style=flat-square)
+## ðŸš€ Live Website
+Experience the fully interactive website live here: https://og-project-mu.vercel.app
 
-## Features
-
-- React + TypeScript + Vite app structure
-- Smooth motion and interaction-driven UI
-- Tailwind CSS styling workflow
-- Production-ready static build output
-
-## Installation
-
-```bash
-npm install
-```
-
-## Usage
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
-
-## Live Demo
-
-[Production Deployment](https://og-project-mu.vercel.app)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+<div align="center"><p>Y7XIFIED</p></div>
