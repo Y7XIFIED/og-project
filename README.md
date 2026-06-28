@@ -32,47 +32,10 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ## 📂 Project Structure
 ```text
 og project/
-├── .vercel
-│   ├── project.json
-│   └── README.txt
-├── assets
-│   └── footer.png
-├── dist
-│   ├── assets
-│   │   ├── footer-CRzRk-J6.png
-│   │   ├── index-C-8_ZQQj.css
-│   │   └── index-D52waPiT.js
-│   └── index.html
-├── src
-│   ├── components
-│   │   ├── ui
-│   │   │   ├── Achievements.tsx
-│   │   │   ├── ClickParticles.tsx
-│   │   │   ├── CoffeeMode.tsx
-│   │   │   ├── CustomCursor.tsx
-│   │   │   ├── GridBackground.tsx
-│   │   │   ├── HackerMode.tsx
-│   │   │   ├── Noise.tsx
-│   │   │   ├── PhysicsOverlay.tsx
-│   │   │   ├── Preloader.tsx
-│   │   │   ├── ScrollProgress.tsx
-│   │   │   ├── Spotlight.tsx
-│   │   │   └── TerminalModal.tsx
-│   │   ├── CodeShowcase.tsx
-│   │   ├── Footer.tsx
-│   │   ├── Hero.tsx
-│   │   ├── Navbar.tsx
-│   │   ├── Philosophy.tsx
-│   │   ├── TechStack.tsx
-│   │   └── Traits.tsx
-│   ├── hooks
-│   │   └── useKonamiCode.ts
-│   ├── scripts
-│   ├── styles
-│   ├── App.tsx
-│   ├── index.css
-│   ├── main.tsx
-│   └── vite-env.d.ts
+├── .vercel/
+├── assets/
+├── dist/
+├── src/
 ├── .gitignore
 ├── index.html
 ├── package-lock.json
